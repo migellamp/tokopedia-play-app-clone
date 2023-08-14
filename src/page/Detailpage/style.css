@@ -1,0 +1,25 @@
+.container-detail-video{
+    margin-top: 70px;
+}
+
+/* .main-section-detail-video{
+    display: flex;
+    flex-direction: row;
+} */
+.product-section{
+    width: 1220px;
+    display: flex;
+    overflow: scroll;
+    /* white-space: nowrap; */
+}
+
+.container-detail-video{
+    display: flex;
+    flex-direction: row;
+}
+
+.video-detail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

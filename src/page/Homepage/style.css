@@ -1,0 +1,19 @@
+.container-card{
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-main{
+    margin-top: 50px;
+}
+
+
+.list-video-section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
